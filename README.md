@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>李新东的假博客</title>
+<title>My file</title>
 <style type="text/css">
 	body{ margin:0px; padding:0px; font-family:"微软雅黑"; 
 		font-size:14px;background:#9400d3;}
@@ -16,7 +16,9 @@
 </style>
 </head>
 <body>
-<div class="wz_1">上</div>
+<div class="wz_1">上
+<h1>欢迎来到我博客</h1>
+</div>
 <div class="wz_2">
      <div class="zuo">左</div>
      <div calss="you">
