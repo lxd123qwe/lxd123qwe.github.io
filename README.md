@@ -1,9 +1,7 @@
-
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>李新东的假博客</title>
 <style type="text/css">
 	body{ margin:0px; padding:0px; font-family:"微软雅黑"; 
 		font-size:14px;background:#9400d3;}
