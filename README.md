@@ -29,13 +29,13 @@
 <body>
 <div class="wz_1">上
 <h1>欢迎来到我博客</h1>
+当前时间:<span class="span" id="span_time"></span>
+
 </div>
 
 <div class="wz_2">
      <div class="zuo">左</div>
-     <h1>李新东</h1>	
-	当前时间:<span class="span" id="span_time"></span>
-
+     <h1>李新东</h1>
      
      <div calss="you">
          <div id="you_1">右1</div>
