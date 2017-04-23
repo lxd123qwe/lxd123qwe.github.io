@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <meta charset="UTF-8">
 <title>My file</title><script type="text/javascript">
@@ -27,7 +27,6 @@
 
 <div class="wz_2">
      <div class="zuo">左</div>
-     <h1>李新东</h1>
      
      <div calss="you">
          <div id="you_1">右1</div>
